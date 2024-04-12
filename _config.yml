@@ -1,0 +1,9 @@
+title:my-profile
+description: This is my profile .
+baseurl: ""
+url: "http://manalfargani.github.io."
+
+# Build settings
+theme: minima
+plugins:
+  - jekyll-feed
